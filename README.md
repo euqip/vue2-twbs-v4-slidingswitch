@@ -1,4 +1,4 @@
-# datepicker (vue2)
+# Sliding Switch (vue2)
 
 > A Vue.js project
 
