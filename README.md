@@ -41,5 +41,4 @@ Available properties:
 - "twtextoffbg": {type: String, default : 'bg-danger'}, // text OFF  background color class
 - "twtextofffg": {type: String, default : ''}, // text OFF foreground color class
 
-
-Works with claasses as with direct formattings with colors
+Works with classes as with direct formattings with colors
